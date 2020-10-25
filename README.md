@@ -1,2 +1,2 @@
 # Android_Background
- An app which monitors the status of bluetooth and wifi, morever it can also change the state of bluetooth
+ This is a simple android app, which will monitor the status of bluetooth and wifi. Moreover this app can also toggle the state of bluetooth. This app can run as foreground service, meaning it cannot be simply closed by just removing the app from recents. One needs to forcefully close the app or let the system automatically kill it.
